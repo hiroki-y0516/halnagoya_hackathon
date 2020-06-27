@@ -14,11 +14,9 @@
 
 ホテルマイステイズ名古屋栄 2F　ルーチェ
 
-	####住所　　
-
 ​	〒460-0005　愛知県名古屋市中区東桜2-23-22
 
-​	![image-20200627004331174](C:\Users\demon\AppData\Roaming\Typora\typora-user-images\image-20200627004331174.png)
+​	![](https://github.com/hiroki-y0516/halnagoya_hackathon/blob/master/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3.PNG)
 
 #### 定員
 
