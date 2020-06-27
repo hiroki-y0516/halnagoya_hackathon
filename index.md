@@ -16,8 +16,6 @@
 
 ​	〒460-0005　愛知県名古屋市中区東桜2-23-22
 
-​	![](https://github.com/hiroki-y0516/halnagoya_hackathon/blob/master/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3.PNG)
-
 #### 定員
 
 21名
